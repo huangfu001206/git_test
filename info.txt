@@ -3,3 +3,4 @@ master: sub 1
 master: add 2
 f1: add 2
 f1: sub 3
+master: sub 2
